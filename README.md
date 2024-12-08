@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laiba Ad</h1>
+<h1 align="center">Hi 👋, I'm Laiba Asif</h1>
 <h3 align="center">A passionate bioinformatician from Pakistan</h3>
 
 - 📫 How to reach me **laibasif99@gmail.com**
